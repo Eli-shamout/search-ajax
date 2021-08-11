@@ -1,0 +1,21 @@
+.list li{
+    font-size: 40px;
+}
+.show{
+    display: none;
+    font-size: 40px;
+    padding:10px 30px;
+}
+.input{
+    width:200px;
+    height:30px;
+    font-size: 17px;
+    border-radius: 5px;
+    outline: 0;
+    border: 1px solid #999;
+    padding:0px 10px;
+}
+.content{
+    font-size: 18px;
+    padding:10px;
+}
